@@ -1,6 +1,6 @@
-- 👋 Hi,I'm Zoi! With over a decade of experience in statistics, data analysis, and project management,I'm passionate about advocating for data-driven decision-making.
-- 👀 I’m interested in data vizualization!  
-- 🌱 I’m currently learning ways to improve my data viz and storytelling skills! 
+- 👋 Hi there! I'm Zoi, a seasoned statistician and data analyst with over a decade of experience. 
+- 👀 My true passion lies in the art of data visualization, where I bring data to life and make it captivating and impactful.
+- 🌱 Currently, I'm on a quest to enhance my data viz and storytelling skills, exploring new ways to weave narratives through visualizations. 
 
 
 <!---
