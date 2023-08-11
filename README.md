@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ZoiDiama
-- Hi, I'm Zoi! With over a decade of experience in statistics, data analysis, and project management,I'm passionate about advocating for data-driven decision-making.
+- 👋 Hi,I'm Zoi! With over a decade of experience in statistics, data analysis, and project management,I'm passionate about advocating for data-driven decision-making.
 - 👀 I’m interested in data vizualization!  
 - 🌱 I’m currently learning ways to improve my data viz and storytelling skills! 
 
