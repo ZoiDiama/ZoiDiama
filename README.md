@@ -13,7 +13,7 @@ I'm a statistician and data analyst with more than ten years of experience. My j
 
 | Project | What you'll find |
 |---|---|
-| [**TidyTuesday**](https://github.com/ZoiDiama/My-tidytuesday-projects) | 60+ visualizations over three years, built in R and polished in Figma. Gender representation, access to basic services, climate, and more. |
+| [**TidyTuesday**](https://github.com/ZoiDiama/My-tidytuesday-projects) | 60+ data visualizations in R and Figma for #TidyTuesday, 2023–2025. Code for every chart.|
 | [**Eurostat explorer**](https://github.com/ZoiDiama/Plots-for-Eurostat-data-with-R) | [One line: which Eurostat topics, which countries, what question it answers.] |
 
 ## How I work
