@@ -28,7 +28,7 @@ I'm a statistician and data analyst with more than ten years of experience. My j
 
 ## Tools
 
-- **R**: tidyverse, ggplot2, [add: eurostat, tidycensus, others you use]
+- **R**: tidyverse, ggplot2
 - **Figma** for the final design layer
 - **Git and GitHub** for versioning and sharing
   
