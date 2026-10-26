@@ -9,13 +9,12 @@ I'm a statistician and data analyst with more than ten years of experience. My j
 - **Making it repeatable.** If I can't rerun it next month with one command, I'm not done.
 - **Telling the story.** A good chart saves the reader a page of text.
 
-## Start here
-
 | Project | What you'll find |
 |---|---|
-| [**TidyTuesday**](https://github.com/ZoiDiama/My-tidytuesday-projects) | 60+ data visualizations in R and Figma for #TidyTuesday, 2023–2025. Code for every chart.|
-| [**Eurostat explorer**](https://github.com/ZoiDiama/Plots-for-Eurostat-data-with-R) | [One line: which Eurostat topics, which countries, what question it answers.] |
-
+| [**TidyTuesday**](https://github.com/ZoiDiama/My-tidytuesday-projects) | 60+ data visualizations in R and Figma for #TidyTuesday, 2023–2025. Code for every chart. |
+| [**Eurostat data stories**](https://github.com/ZoiDiama/Eurostat-data-stories) | Two years of analysis and 100+ news items for Eurostat, revisited with the latest EU data: what was published, what I explored further, and new charts in R. |
+| [**Hong Kong's hot summers**](https://github.com/ZoiDiama/hong-kong-hot-summers) | 73 years of daily weather data from the Hong Kong Observatory: four times as many very hot days as in the 1950s. An infographic built entirely in R. |
+| [**Vietnam's economic disparities**](https://github.com/ZoiDiama/vietnam-economic-disparities) | GDP, poverty and tourism across Vietnam's 63 provinces: why the boom has bypassed the northern mountains. A bivariate map and infographic built entirely in R. |
 ## How I work
 
 1. I start with the question, not the chart.
