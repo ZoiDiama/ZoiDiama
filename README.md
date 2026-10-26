@@ -17,6 +17,7 @@ I'm a statistician and data analyst with more than ten years of experience. My j
 | [**Eurostat data stories**](https://github.com/ZoiDiama/Eurostat-data-stories) | Two years of analysis and 100+ news items for Eurostat, revisited with the latest EU data: what was published, what I explored further, and new charts in R. |
 | [**Hong Kong's hot summers**](https://github.com/ZoiDiama/hong-kong-hot-summers) | 73 years of daily weather data from the Hong Kong Observatory: four times as many very hot days as in the 1950s. An infographic built entirely in R. |
 | [**Vietnam's economic disparities**](https://github.com/ZoiDiama/vietnam-economic-disparities) | GDP, poverty and tourism across Vietnam's 63 provinces: why the boom has bypassed the northern mountains. A bivariate map and infographic built entirely in R. |
+| [**Breastfeeding and paid leave**](https://github.com/ZoiDiama/breastfeeding-policy-gap) | Mothers are asked to breastfeed for six months but paid for about three. A calendar-style visual combining UNICEF survey data and World Bank leave laws, built in R. |
 ## How I work
 
 1. I start with the question, not the chart.
