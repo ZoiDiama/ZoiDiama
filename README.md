@@ -9,6 +9,8 @@ I'm a statistician and data analyst with more than ten years of experience. My j
 - **Making it repeatable.** If I can't rerun it next month with one command, I'm not done.
 - **Telling the story.** A good chart saves the reader a page of text.
 
+## Start here
+
 | Project | What you'll find |
 |---|---|
 | [**TidyTuesday**](https://github.com/ZoiDiama/My-tidytuesday-projects) | 60+ data visualizations in R and Figma for #TidyTuesday, 2023–2025. Code for every chart. |
