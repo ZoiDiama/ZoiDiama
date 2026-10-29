@@ -4,7 +4,7 @@
 
 I'm a statistician and data analyst with more than 15 years of experience in official statistics, humanitarian data and monitoring and evaluation, with UN agencies, EU agencies and international NGOs. I design surveys and indicators, check data quality, analyse the data, and turn the results into reports and charts people can act on.
 
-My job, as I see it: take messy numbers, make them trustworthy, then explain them so a busy person gets it in ten seconds.
+My job, as I see it: take messy numbers, make them trustworthy, then explain them so a busy person gets it in seconds.
 
 ## Start here
 
@@ -14,9 +14,8 @@ My job, as I see it: take messy numbers, make them trustworthy, then explain the
 | [**Breastfeeding and paid leave**](https://github.com/ZoiDiama/breastfeeding-policy-gap) | Mothers are asked to breastfeed for six months but are paid leave for about three. UNICEF survey data and World Bank leave laws in one calendar-style visual. | Survey indicators · integration of policy and legal data · gap analysis against an international standard · gender analysis |
 | [**Vietnam's economic disparities**](https://github.com/ZoiDiama/vietnam-economic-disparities) | GDP, poverty and tourism across Vietnam's 63 provinces: why the boom has bypassed the northern mountains. A bivariate map and infographic in R. | Subnational disaggregation · multi-indicator analysis · geospatial visualisation |
 | [**Hong Kong's hot summers**](https://github.com/ZoiDiama/hong-kong-hot-summers) | 73 years of daily Hong Kong Observatory data: four times as many very hot days as in the 1950s. An infographic built entirely in R. | Data cleaning and validation · time-series analysis · indicator construction from raw records |
-| [**TidyTuesday**](https://github.com/ZoiDiama/My-tidytuesday-projects) | 67 charts for #TidyTuesday, 2023–2025, including forced displacement, water insecurity, public-sector employment and polling places. Code for every chart. | Rapid analysis of new datasets · finding-led communication · wide range of chart types |
+| [**TidyTuesday**](https://github.com/ZoiDiama/My-tidytuesday-projects) | 67 charts for #TidyTuesday, 2023–2025, including forced displacement, water insecurity, public-sector employment and polling places. Code for every chart. | Finding-led communication · wide range of chart types |
 
-**In progress:** a survey analysis and indicator development project: one SDG indicator built from survey microdata, with survey weights, disaggregation and a metadata sheet, checked against the official published figure.
 
 ## What I care about
 
